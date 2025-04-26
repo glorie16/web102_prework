@@ -4,7 +4,7 @@ Submitted by: Gloriele Mendoza
 
 Sea Monster Crowdfunding is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 18 hours spent in total
+Time spent: 20 hours spent in total
 
 ## Required Features
 
@@ -26,13 +26,14 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+https://youtu.be/xsApaZix3yM?si=Qgs7hp6397-TOMsw
+
 Video created with:  
 Zoom
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
-
 ## Notes
 
 It was challenging understanding the new tools like reduce() and filter(), as well as using template literals. But it was fun and I learned a lot!
